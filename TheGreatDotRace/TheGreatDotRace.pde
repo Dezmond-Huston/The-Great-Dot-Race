@@ -42,14 +42,5 @@ void draw() {
   }else{
     test.update(); // Call update() method in Population class
     test.show(); // Call show() method in Population class
-    /*if(!individual.isBest){
-      test.showBest();
-      //print("Bt! " + individual.isBest);
-    } else if(individual.isBest){
-      print("fhfdh hgdh dhjyj dtyjtdyjtdjtydjtjtdjt\n");
-     test.show(); 
-    }*/
-    //test.showBest();
   }
-  //ui.show();
 }
