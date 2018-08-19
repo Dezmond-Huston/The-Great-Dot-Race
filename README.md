@@ -1,6 +1,6 @@
 # The Great Dot Race
 
-A simple evolutionary algorithm that avoids an obstacle | Chingu Voyage-6 | https://google.com/
+A simple evolutionary algorithm that avoids an obstacle | Artificial Intelligence-01 | https://google.com/
 
 
 ## MVP
@@ -33,4 +33,4 @@ A simple evolutionary algorithm that avoids an obstacle | Chingu Voyage-6 | http
 
 1. Fork this repository
 2. Download and install [Processing](https://processing.org/download/)
-3. Open the file TheGreatDotRace from Processing
+3. Open the file **TheGreatDotRace** from Processing
